@@ -1,5 +1,5 @@
 # Housing Price Prediction
-![Header](https://github.com/xavier-lim/housingPricePrediction/blob/master/images/housesbanner.PNG)
+![Header](https://github.com/xavier-lim/housingPricePrediction/blob/master/images/housesbanner.png)
 
 This project consists of using home features to predict the final price of homes in Ames, Iowa. I created numerous XGBoost regression models with varying parameters to determine the best model to make these predictions. This type of analysis would be valuable for home buyers when determining the value of a house.
 
@@ -26,7 +26,7 @@ All the data for this project was collected from [Kaggle](https://www.kaggle.com
 
 
 ## Exploratory Data Analysis
-![EDA](https://github.com/xavier-lim/housingPricePrediction/blob/master/images/correlations.PNG)
+![Correlations](https://github.com/xavier-lim/housingPricePrediction/blob/master/images/correlations.PNG)
 
 Many numerical variables such as OverallQual, GrLivArea, TotalBsmtSF, 1stFlrSF, YearBuilt, FullBath, and GarageArea appear to have a strong positive correlation with the sale price of a home.
 
