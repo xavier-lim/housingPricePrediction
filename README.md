@@ -31,7 +31,7 @@ All the data for this project was collected from [Kaggle](https://www.kaggle.com
 Many numerical variables such as OverallQual, GrLivArea, TotalBsmtSF, 1stFlrSF, YearBuilt, FullBath, and GarageArea appear to have a strong positive correlation with the sale price of a home.
 
 ## Conclusion
-After submitting my model to the Kaggle competition, I finished in the Top 7% with an MAE of under 15,000. In conclusion, the XGBRegressor and the predictor variables I selected effectively predicted house prices of homes in Ames, Iowa
+After submitting my model to the Kaggle competition, I finished in the Top 7% with an MAE of under 15,000 which means on average, my model prediction is within $15,000 of the actual house price. In conclusion, the XGBRegressor and the predictor variables I selected effectively predicted house prices of homes in Ames, Iowa.
 
 
 ## Author
